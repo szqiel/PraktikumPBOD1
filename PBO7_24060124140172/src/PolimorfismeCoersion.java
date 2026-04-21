@@ -1,5 +1,5 @@
 /* Nama File: PolimorfismeCoersion.java
- * Deskripsi: Program ilustrasi Polimorfisme Ad Hoc Coersion
+ * Deskripsi: Program ilustrasi Polimorfism Ad Hoc Coersion
  * Pembuat: Syair Adharian
  * NIM: 24060124140172
  * Tanggal: 21 April 2026*/
