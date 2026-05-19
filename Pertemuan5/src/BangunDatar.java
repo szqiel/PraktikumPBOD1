@@ -66,6 +66,7 @@ public abstract class BangunDatar {
         return this.getKeliling() == X.getKeliling();
     }
 
+    
 }
 
 
