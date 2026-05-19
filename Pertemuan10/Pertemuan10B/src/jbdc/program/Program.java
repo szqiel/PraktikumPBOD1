@@ -36,6 +36,7 @@ public class Program {
         System.out.println("akan di delete: " + service.getById(5));
         service.delete(5);
         displayAll();
+              
     }
 
     private static void displayAll() {
